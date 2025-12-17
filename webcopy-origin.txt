@@ -1,0 +1,856 @@
+Uri: https://analytics.ahrefs.com/analytics.js
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\analytics.js
+Content Type: text/javascript
+
+Uri: https://awards.infcdn.net/2024/r_gold.css
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\2024\r_gold.css
+Content Type: text/css
+
+Uri: https://awards.infcdn.net/fonts/Montserrat-Bold.ttf
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\fonts\Montserrat-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://awards.infcdn.net/fonts/Montserrat-Regular.ttf
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\fonts\Montserrat-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://tramontana.ma/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/a-propos-restaurant-tanger/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\a-propos-restaurant-tanger\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/apple-touch-icon.png
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://tramontana.ma/ar/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\ar\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/ar/ahssan-fetour-tanger/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\ar\ahssan-fetour-tanger\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/ar/burger-tanja/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\ar\burger-tanja\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/ar/cookies-policy/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\ar\cookies-policy\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/ar/gdpr-policy/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\ar\gdpr-policy\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/ar/hawla-mataam-fi-tanja/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\ar\hawla-mataam-fi-tanja\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/ar/ittisal/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\ar\ittisal\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/ar/maarid-sowar/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\ar\maarid-sowar\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/ar/monassabat/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\ar\monassabat\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/ar/pizza-tanja/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\ar\pizza-tanja\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/ar/quayma/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\ar\quayma\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/ar/tacos-tanja/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\ar\tacos-tanja\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/burger-tanger/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\burger-tanger\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/contact/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\contact\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/cookies-policy/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\cookies-policy\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/en/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\en\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/en/about-restaurant-tangier/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\en\about-restaurant-tangier\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/en/breakfast-brunch-tangier/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\en\breakfast-brunch-tangier\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/en/burger-tangier/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\en\burger-tangier\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/en/contact/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\en\contact\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/en/cookies-policy/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\en\cookies-policy\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/en/events/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\en\events\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/en/gallery/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\en\gallery\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/en/gdpr-policy/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\en\gdpr-policy\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/en/menu/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\en\menu\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/en/pizza-tangier/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\en\pizza-tangier\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/en/tacos-tangier/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\en\tacos-tangier\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/es/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\es\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/es/acerca-restaurante-tanger/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\es\acerca-restaurante-tanger\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/es/contacto/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\es\contacto\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/es/cookies-policy/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\es\cookies-policy\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/es/desayuno-brunch-tanger/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\es\desayuno-brunch-tanger\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/es/eventos/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\es\eventos\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/es/galeria/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\es\galeria\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/es/gdpr-policy/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\es\gdpr-policy\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/es/hamburguesa-tanger/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\es\hamburguesa-tanger\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/es/menu/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\es\menu\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/es/pizza-tanger/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\es\pizza-tanger\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/es/tacos-tanger/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\es\tacos-tanger\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/evenements/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\evenements\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/favicon-16x16.png
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://tramontana.ma/favicon-32x32.png
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://tramontana.ma/favicon.ico
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://tramontana.ma/favicon.svg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://tramontana.ma/galerie/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\galerie\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/gdpr-policy/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\gdpr-policy\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/glovo-delivery.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\glovo-delivery.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/icons/glovo.svg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\icons\glovo.svg
+Content Type: image/svg+xml
+
+Uri: https://tramontana.ma/icons/Guru.svg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\icons\Guru.svg
+Content Type: image/svg+xml
+
+Uri: https://tramontana.ma/icons/Pinterest.svg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\icons\Pinterest.svg
+Content Type: image/svg+xml
+
+Uri: https://tramontana.ma/icons/zarka-200.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\icons\zarka-200.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/baghrir/BAGHRIR WITH AMLOU.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\baghrir\BAGHRIR WITH AMLOU.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/boissansfroides/fuentevera1,5l.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\boissansfroides\fuentevera1,5l.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/boissansfroides/fuentevera33cl.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\boissansfroides\fuentevera33cl.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/boissansfroides/oulmes.png
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\boissansfroides\oulmes.png
+Content Type: image/png
+
+Uri: https://tramontana.ma/images/boissansfroides/Red-Bull.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\boissansfroides\Red-Bull.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/boissansfroides/soda.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\boissansfroides\soda.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/burger/CHICKEN BURGER.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\burger\CHICKEN BURGER.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/burger/CRISPY CHICKEN BURGER.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\burger\CRISPY CHICKEN BURGER.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/burger/DOUBLE BURGER.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\burger\DOUBLE BURGER.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/burger/ROYAL BURGER.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\burger\ROYAL BURGER.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/burger/SCHICKENBURGER.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\burger\SCHICKENBURGER.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/burger/VOLCANO CHEESE BURGER.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\burger\VOLCANO CHEESE BURGER.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/cat/beakfast-cat.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\cat\beakfast-cat.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/cat/dessert-cat.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\cat\dessert-cat.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/cat/Drinks-cat.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\cat\Drinks-cat.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/cat/Extras-cat.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\cat\Extras-cat.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/cat/Fastfood-cat.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\cat\Fastfood-cat.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/cat/mealComplete-cat.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\cat\mealComplete-cat.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/chia-fruits/CHIA DRY FRUIT.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\chia-fruits\CHIA DRY FRUIT.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/chia-fruits/CHIA RED FRUIT.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\chia-fruits\CHIA RED FRUIT.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/chia-fruits/CHIA SPECIAL.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\chia-fruits\CHIA SPECIAL.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/chia-fruits/CHIA TRAMONTANA.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\chia-fruits\CHIA TRAMONTANA.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/croissant/croissant benedict with eggs.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\croissant\croissant benedict with eggs.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/croissant/Eggs-Benedict-Croissant.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\croissant\Eggs-Benedict-Croissant.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/croq/CROQUE CHEESE.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\croq\CROQUE CHEESE.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/deserts/Flan.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\deserts\Flan.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/deserts/salad fruit 1p 2.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\deserts\salad fruit 1p 2.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/deserts/salad fruit 1p.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\deserts\salad fruit 1p.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/extra/SEVEN MONTANA.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\extra\SEVEN MONTANA.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/extra/THREE MONTANA.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\extra\THREE MONTANA.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/fastfood.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\fastfood.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/gaufres/waffle-lotus.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\gaufres\waffle-lotus.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/italien.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/italien/CHICKEN PANINI.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\CHICKEN PANINI.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/italien/Lasagna Minced Meat.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\Lasagna Minced Meat.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/italien/MIXED PANINI.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\MIXED PANINI.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/italien/PANINI MINCED MEAT.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\PANINI MINCED MEAT.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/italien/Pasta Chicken.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\Pasta Chicken.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/italien/PASTA MINCED MEAT.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\PASTA MINCED MEAT.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/italien/PASTA TUNA.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\PASTA TUNA.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/italien/pasta-sea-food.avif
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\pasta-sea-food.avif
+Content Type: image/avif
+
+Uri: https://tramontana.ma/images/italien/Pasticcio Chicken.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\Pasticcio Chicken.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/italien/Pasticcio Smoked Turkey.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\Pasticcio Smoked Turkey.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/italien/Pizza Chicken.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\Pizza Chicken.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/italien/Pizza Four Cheese.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\Pizza Four Cheese.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/italien/PIZZA MARGARITA.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\PIZZA MARGARITA.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/italien/Pizza Minced Meat.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\Pizza Minced Meat.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/italien/Pizza Pepperoni.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\Pizza Pepperoni.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/italien/Pizza quatre saisons.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\Pizza quatre saisons.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/italien/PIZZA TUNA.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\PIZZA TUNA.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/italien/PIZZA VEGETARIAN.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\PIZZA VEGETARIAN.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/italien/pizza-4-seasons.avif
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\pizza-4-seasons.avif
+Content Type: image/avif
+
+Uri: https://tramontana.ma/images/italien/pizza-half-half.avif
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\pizza-half-half.avif
+Content Type: image/avif
+
+Uri: https://tramontana.ma/images/italien/pizza-royal.avif
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\pizza-royal.avif
+Content Type: image/avif
+
+Uri: https://tramontana.ma/images/italien/pizza-sea-food.avif
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\pizza-sea-food.avif
+Content Type: image/avif
+
+Uri: https://tramontana.ma/images/italien/TUNA PANINI.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\italien\TUNA PANINI.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/jus/2MIX -jus.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\jus\2MIX -jus.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/jus/Carrot-jus.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\jus\Carrot-jus.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/jus/jus-fraise.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\jus\jus-fraise.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/jus/jus-orange.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\jus\jus-orange.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/jus/jus-SPECIAL.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\jus\jus-SPECIAL.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/jus/KIWI-jus.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\jus\KIWI-jus.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/jus/Lemon Juice.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\jus\Lemon Juice.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/jus/MANGO-jus.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\jus\MANGO-jus.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/jus/PASSION-jus.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\jus\PASSION-jus.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/jus/RED FRUITS-jus.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\jus\RED FRUITS-jus.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/jus/TRAMONTANA-jus.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\jus\TRAMONTANA-jus.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/jus/Watermelon-jus.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\jus\Watermelon-jus.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/jus/za3za3.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\jus\za3za3.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/mojito/MOJITO REDBULL.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\mojito\MOJITO REDBULL.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/mojito/mojito.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\mojito\mojito.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/omlettes/OMELETTE CHEESE.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\omlettes\OMELETTE CHEESE.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/omlettes/Omelette Mushroom.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\omlettes\Omelette Mushroom.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/omlettes/Omelette Smoked turkey and cheese.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\omlettes\Omelette Smoked turkey and cheese.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/omlettes/Omelette Tuna.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\omlettes\Omelette Tuna.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/omlettes/Omelette Vegetarian.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\omlettes\Omelette Vegetarian.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/omlettes/omlette sea fruit.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\omlettes\omlette sea fruit.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/omlettes/omlette-normal.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\omlettes\omlette-normal.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pancake/pancake nutella.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pancake\pancake nutella.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/catalan breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\catalan breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/catalan with eggs breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\catalan with eggs breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/catalan-breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\catalan-breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/chamali breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\chamali breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/crunchy breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\crunchy breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/double-catalan-breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\double-catalan-breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/dubai breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\dubai breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/english breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\english breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/english-brekfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\english-brekfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/fassi-breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\fassi-breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/holland breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\holland breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/moroccan breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\moroccan breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/napoleon breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\napoleon breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/PdejEspa.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\PdejEspa.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/pdej/PdejTurk.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\PdejTurk.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/pdej/scrambled breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\scrambled breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/pdej/tramontana-breakfast.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\pdej\tramontana-breakfast.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/plats/Chicken Strips.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\plats\Chicken Strips.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/plats/cordon-bleu.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\plats\cordon-bleu.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/plats/nagets.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\plats\nagets.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/plats/Poulet croustillant.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\plats\Poulet croustillant.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/plats/Poulet en sauce.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\plats\Poulet en sauce.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/salad fruit.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\salad fruit.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/salad.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\salad.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/salades/Avocado shrimp salad.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\salades\Avocado shrimp salad.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/salades/Ceasar Chicken Salad.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\salades\Ceasar Chicken Salad.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/SavoryCrepes/CREPE CHICKEN AND CHEESE.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\SavoryCrepes\CREPE CHICKEN AND CHEESE.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/SavoryCrepes/crepe smoked turkey and cheese.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\SavoryCrepes\crepe smoked turkey and cheese.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/sweet-crepe.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\sweet-crepe.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/sweetcrepe/2crepes.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\sweetcrepe\2crepes.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/sweetcrepe/CREPE LOTUS.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\sweetcrepe\CREPE LOTUS.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/sweetcrepe/crepe nutella banana.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\sweetcrepe\crepe nutella banana.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/sweetcrepe/crepe-amlou.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\sweetcrepe\crepe-amlou.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/sweetcrepe/crepe-speciale.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\sweetcrepe\crepe-speciale.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/sweetcrepe/crepe-sucre.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\sweetcrepe\crepe-sucre.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/tacos/CHICKEN NUGGETS TACOS.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\tacos\CHICKEN NUGGETS TACOS.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/tacos/CHICKEN-TACOS.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\tacos\CHICKEN-TACOS.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/tacos/MINCED MEAT TACOS.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\tacos\MINCED MEAT TACOS.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/tacos/MIX TACOS.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\tacos\MIX TACOS.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/tacos/TACOS CORDON BLEU.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\tacos\TACOS CORDON BLEU.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/tagines/Tajine rigamonte.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\tagines\Tajine rigamonte.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/tagines/TajinPilpilTomat.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\tagines\TajinPilpilTomat.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/images/tajine.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\tajine.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/toast/Toast Cheese.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\toast\Toast Cheese.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/toast/toast smoked turkey and cheese.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\toast\toast smoked turkey and cheese.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/wrap/WRAPS CHICKEN.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\wrap\WRAPS CHICKEN.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/images/wrap/WRAPS TUNA.webp
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\images\wrap\WRAPS TUNA.webp
+Content Type: image/webp
+
+Uri: https://tramontana.ma/logo-arabic-black.svg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\logo-arabic-black.svg
+Content Type: image/svg+xml
+
+Uri: https://tramontana.ma/logo-arabic-white.svg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\logo-arabic-white.svg
+Content Type: image/svg+xml
+
+Uri: https://tramontana.ma/logo-dark.svg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\logo-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://tramontana.ma/logo-light.svg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\logo-light.svg
+Content Type: image/svg+xml
+
+Uri: https://tramontana.ma/menu/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\menu\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/petit-dejeuner-brunch-tanger/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\petit-dejeuner-brunch-tanger\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/pizza-tanger/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\pizza-tanger\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/sitemap-index.xml
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\sitemap-index.xml
+Content Type: application/xml
+
+Uri: https://tramontana.ma/tacos-tanger/
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\tacos-tanger\index.htm
+Content Type: text/html
+
+Uri: https://tramontana.ma/tramontana-facade.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\tramontana-facade.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/tramontana-ftour.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\tramontana-ftour.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/tramontana-maqla.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\tramontana-maqla.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/tramontana-tacos.jpg
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\tramontana-tacos.jpg
+Content Type: image/jpeg
+
+Uri: https://tramontana.ma/_astro/a-propos-restaurant-tanger.D9xcyWYF.css
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\a-propos-restaurant-tanger.D9xcyWYF.css
+Content Type: text/css
+
+Uri: https://tramontana.ma/_astro/ClientRouter.astro_astro_type_script_index_0_lang.BOel_0Ki.js
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\ClientRouter.astro_astro_type_script_index_0_lang.BOel_0Ki.js
+Content Type: application/javascript
+
+Uri: https://tramontana.ma/_astro/imperial-script-latin-400-normal.BgZafYXX.woff
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\imperial-script-latin-400-normal.BgZafYXX.woff
+Content Type: application/font-woff
+
+Uri: https://tramontana.ma/_astro/imperial-script-latin-400-normal.DT9RkWw6.woff2
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\imperial-script-latin-400-normal.DT9RkWw6.woff2
+Content Type: font/woff2
+
+Uri: https://tramontana.ma/_astro/imperial-script-latin-ext-400-normal.B3hmHPje.woff
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\imperial-script-latin-ext-400-normal.B3hmHPje.woff
+Content Type: application/font-woff
+
+Uri: https://tramontana.ma/_astro/imperial-script-latin-ext-400-normal.CRBMKVvB.woff2
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\imperial-script-latin-ext-400-normal.CRBMKVvB.woff2
+Content Type: font/woff2
+
+Uri: https://tramontana.ma/_astro/imperial-script-vietnamese-400-normal.dGTbV1t3.woff
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\imperial-script-vietnamese-400-normal.dGTbV1t3.woff
+Content Type: application/font-woff
+
+Uri: https://tramontana.ma/_astro/imperial-script-vietnamese-400-normal.DiJn5lHu.woff2
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\imperial-script-vietnamese-400-normal.DiJn5lHu.woff2
+Content Type: font/woff2
+
+Uri: https://tramontana.ma/_astro/index.ty0z7H5C.css
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\index.ty0z7H5C.css
+Content Type: text/css
+
+Uri: https://tramontana.ma/_astro/LanguageSwitcher.astro_astro_type_script_index_0_lang.Coz80fYX.js
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\LanguageSwitcher.astro_astro_type_script_index_0_lang.Coz80fYX.js
+Content Type: application/javascript
+
+Uri: https://tramontana.ma/_astro/marhey-arabic-wght-normal.BWfJdpgP.woff2
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\marhey-arabic-wght-normal.BWfJdpgP.woff2
+Content Type: font/woff2
+
+Uri: https://tramontana.ma/_astro/marhey-latin-ext-wght-normal.CrNOfAWx.woff2
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\marhey-latin-ext-wght-normal.CrNOfAWx.woff2
+Content Type: font/woff2
+
+Uri: https://tramontana.ma/_astro/marhey-latin-wght-normal.CO0uewfw.woff2
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\marhey-latin-wght-normal.CO0uewfw.woff2
+Content Type: font/woff2
+
+Uri: https://tramontana.ma/_astro/OrderReceipt.astro_astro_type_script_index_1_lang.Q1cJ43eu.js
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\OrderReceipt.astro_astro_type_script_index_1_lang.Q1cJ43eu.js
+Content Type: application/javascript
+
+Uri: https://tramontana.ma/_astro/page.CPvyyiTs.js
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\page.CPvyyiTs.js
+Content Type: application/javascript
+
+Uri: https://tramontana.ma/_astro/quayma.BfEbMNce.css
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\_astro\quayma.BfEbMNce.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-RQZRM9HVKH
+File Name: C:\Users\ADMIN\Desktop\tramontana.ma\gtag\js
+Content Type: application/javascript
+
